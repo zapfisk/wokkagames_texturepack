@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "custom/teleporter",
-		"particle": "custom/teleporter"
+		"0": "item/carrot_on_a_stick/10",
+		"particle": "item/carrot_on_a_stick/10"
 	},
 	"elements": [
 		{

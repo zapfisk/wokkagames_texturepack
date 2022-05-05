@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "custom/hacker_katana",
-		"particle": "custom/hacker_katana"
+		"0": "item/carrot_on_a_stick/4",
+		"particle": "item/carrot_on_a_stick/4"
 	},
 	"elements": [
 		{
