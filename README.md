@@ -1,6 +1,5 @@
-# rauch_texturepack
+# Rauch Resource Pack
 
-The texturepack for [Rauchergames](https://github.com/sling233/rauch4).
+The Resource Pack for [Rauchergames](https://github.com/sling233/rauch4).
 
-To use, download the files, unzip and put the folder into .minecraft\resourcepacks  
-Make sure the file pack.mcmeta is located at .minecraft\resourcepacks\rauch_texturepack\
+To use, go to the latest release and download Rauchpack.zip into .minecraft\resourcepacks
