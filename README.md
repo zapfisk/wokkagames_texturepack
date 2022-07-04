@@ -1,5 +1,5 @@
-# Rauch Resource Pack
+# Wokka Resource Pack
 
-The Resource Pack for [Rauchergames](https://github.com/sling233/rauch4).
+The Resource Pack for [Wokkagames](https://github.com/sling233/rauch4).
 
-To use, go to the latest release and download Rauchpack.zip into .minecraft\resourcepacks
+To use, go to the latest release and download Wokkapack.zip into .minecraft\resourcepacks
